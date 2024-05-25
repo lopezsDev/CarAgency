@@ -20,15 +20,7 @@ This project aims to create a comprehensive website for a car agency, allowing u
 4. Start the development server: `npm run dev`
 5. Access the application in your browser at `http://localhost:3000`
 
-## 📸 Screenshots
-![Home Page](/screenshots/home.png)
-![Vehicle Catalog](/screenshots/catalog.png)
-![Contact Page](/screenshots/contact.png)
-
 
 ## 📧 Contact
 For any inquiries or suggestions, feel free to reach out to us at [lopezs.dev@mail.com](mailto:lopezs.dev@mail.com).
 
-<div align="center">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/automobile_1f697.png" alt="Car Emoji" width="100px">
-</div>
